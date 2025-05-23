@@ -18,7 +18,7 @@
 Based on which use case's access you would like to assign to the user, you can control this via Role based permission
 For example: To assign use case View Location, follow below steps:
 1. Go to **Admin Center**-> **Manage Permission Role** and open User's role.
-2. Navigate to **Employee Central Quick Actions** and select the use cse **View Location** as shown below:</br>
+2. Navigate to **Employee Central Quick Actions** and select the use cse **View Email Addresses** as shown below:</br>
 ![EC_QA_Template](3QA_Permission.png)
 
 4. Save Changes.
