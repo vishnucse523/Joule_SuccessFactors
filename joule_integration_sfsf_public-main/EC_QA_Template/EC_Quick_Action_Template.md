@@ -9,6 +9,8 @@
 
 5. If objects are not visible, then you can create the template objects by clicking on Create New and select Employee Central Quick Action Templates.</br>
 ![EC_QA_Template](4Create_EC_QA.png)
+
+Example I'm taking: **View My Email Addres**
 ![EC_QA_Template](Email_tpt.png)
 
 **Templates assignments to User**
