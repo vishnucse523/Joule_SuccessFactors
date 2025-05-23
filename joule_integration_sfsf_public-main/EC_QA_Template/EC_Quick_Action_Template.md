@@ -9,6 +9,7 @@
 
 5. If objects are not visible, then you can create the template objects by clicking on Create New and select Employee Central Quick Action Templates.</br>
 ![EC_QA_Template](4Create_EC_QA.png)
+![EC_QA_Template](Email_tpt.png)
 
 **Templates assignments to User**
 Based on which use case's access you would like to assign to the user, you can control this via Role based permission
