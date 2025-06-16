@@ -1,6 +1,6 @@
 ## **Configure SuccessFactors as Source System in Identity Provisioning**
 
-1. Download [**IdentityProvisioning_Files.zip**](https://github.com/vishnucse523/Joule_SuccessFactors/blob/main/joule_integration_sfsf_public-main/configure_identity_provisioning/files/IdentityProvisioningFiles.zip) that contains the pre-defined source and target systems required to setup this configuration.</br>
+1. Download [**IdentityProvisioning_Files.zip**](https://github.com/vishnucse523/Joule_SuccessFactors/raw/main/joule_integration_sfsf_public-main/configure_identity_provisioning/files/IdentityProvisioningFiles.zip) that contains the pre-defined source and target systems required to setup this configuration.</br>
 **Note**: A file should be automatically downloaded into your downloads folder.
 2. Extract the zip file into a folder of your choice.  Confirm that the following 2 files are visible in the extracted folder:
    * **SuccessFactors-SF-Company-ID-Joule.json**
