@@ -12,7 +12,7 @@ Status, UserId, Username, FirstName, LastName, Email ID, Manager (as NO_MANAGER 
 8. Access **Admin Center > Reset User Password**.
 9. Search for the newly created API user and reset the user password.</br>
 ![Create_API_User](3reset_password.jpg)
-Download Api User [**Joule_Api_User.csv**](https://github.com/vishnucse523/Joule_SuccessFactors/blob/main/joule_integration_sfsf_public-main/Create_API_User/Joule_Api_User.c) that contains Api User.
+Download Api User [**Joule_Api_User.csv**](https://github.com/vishnucse523/Joule_SuccessFactors/blob/main/joule_integration_sfsf_public-main/Create_API_User/Joule_Api_User.csv) that contains Api User.
 
 11. Access **Admin Center > Manage Permission Role**.
 12. Select an existing **Permission Role** or create a new one.
