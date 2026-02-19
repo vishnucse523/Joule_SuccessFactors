@@ -1,0 +1,15 @@
+STATUS,USERID,USERNAME,FIRSTNAME,LASTNAME,MI,GENDER,EMAIL,MANAGER,HR,DEPARTMENT,JOBCODE,DIVISION,LOCATION,TIMEZONE,HIREDATE,EMPID,TITLE,BIZ_PHONE,FAX,ADDR1,ADDR2,CITY,STATE,ZIP,COUNTRY,REVIEW_FREQ,LAST_REVIEW_DATE,CUSTOM01,CUSTOM02,CUSTOM03,CUSTOM04,CUSTOM05,CUSTOM06,CUSTOM07,CUSTOM08,CUSTOM09,CUSTOM10,CUSTOM11,CUSTOM12,CUSTOM13,CUSTOM14,CUSTOM15,MATRIX_MANAGER,DEFAULT_LOCALE,PROXY,CUSTOM_MANAGER,SECOND_MANAGER,LOGIN_METHOD,ASSIGNMENT_ID_EXTERNAL,ASSIGNMENTUUID,DISPLAYNAME
+STATUS,USERID,Username,First Name,Last Name,Middle Name,Gender,Email,Manager,Human Resource,Department,Job Code,Division,Location,Time Zone,Hire Date,Employee Id,Title,Business Phone,Business Fax,Address 1,Address 2,City,State,ZIP,Country,Review Frequency,Last Review Date,Customizable Field 1,Customizable Field 2,Customizable Field 3,Customizable Field 4,Customizable Field 5,Customizable Field 6,Customizable Field 7,Customizable Field 8,Customizable Field 9,Customizable Field 10,Customizable Field 11,Customizable Field 12,Customizable Field 13,Customizable Field 14,Customizable Field 15,Matrix Manager,Default Locale,Proxy,Custom Manager,Second Manager,Login Method,Assignment ID,Assignment UUID,Display Name
+active,Joule,JouleApi,Joule,API,,M,JouleApi@Test.com,,NO_HR,N/A,,N/A,N/A,US/Eastern,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,en_US,,,,,,,Joule Api
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
