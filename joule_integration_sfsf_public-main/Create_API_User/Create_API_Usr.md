@@ -14,7 +14,7 @@ Status, UserId, Username, FirstName, LastName, Email ID, Manager (as NO_MANAGER 
 ![Create_API_User](3reset_password.jpg)
 
 11. Access **Admin Center > Manage Permission Role**.
-12. Select an existing test **Permission Role** or create a new one.
+12. Select an existing **Permission Role** or create a new one.
 13. Assign **Manage Integration Tools** > **Allow Admin to Access OData API through Basic Authentication** and click **Save Changes**:</br>
 ![Create_API_User](1API_Permission.jpg)
 
