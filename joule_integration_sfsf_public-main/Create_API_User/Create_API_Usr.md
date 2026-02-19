@@ -11,12 +11,12 @@ Status, UserId, Username, FirstName, LastName, Email ID, Manager (as NO_MANAGER 
 
 8. Access **Admin Center > Reset User Password**.
 9. Search for the newly created API user and reset the user password.</br>
-![Create_API_User](3reset_password.jpg)
-Download Api User [**Joule_Api_User.csv**](https://github.com/vishnucse523/Joule_SuccessFactors/raw/refs/heads/main/joule_integration_sfsf_public-main/Create_API_User/API_User.zip) that contains Api User.
-
+10[Create_API_User](3reset_password.jpg)
 11. Access **Admin Center > Manage Permission Role**.
 12. Select an existing **Permission Role** or create a new one.
 13. Assign **Manage Integration Tools** > **Allow Admin to Access OData API through Basic Authentication** and click **Save Changes**:</br>
 ![Create_API_User](1API_Permission.jpg)
 
 15. Assign this permission role to a permission group in SuccessFactors.  Ensure the newly created user is also a member of this group.
+
+****Download Api User** [**Joule_Api_User.csv**](https://github.com/vishnucse523/Joule_SuccessFactors/raw/refs/heads/main/joule_integration_sfsf_public-main/Create_API_User/API_User.zip) that contains Api User.
